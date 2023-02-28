@@ -15,7 +15,7 @@
 
 - .❓ Do not hesitate to contact me for questions about science or development.  
 
-- 👩‍💻 Take a look to my  [Portfolio] (https://constanzaguimaraez.netlify.app/)
+- 👩‍💻 Take a look to my  [Portfolio](https://constanzaguimaraez.netlify.app/)
   
 
 <br/>  
