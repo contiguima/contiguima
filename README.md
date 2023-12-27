@@ -4,7 +4,7 @@
 -  ⚗️ I am currently an ad honorem intern at the biomaterials laboratory of the Universidad Nacional de Misiones and a freelance frontend developer.  
   
 
-- 🌱 I am in my third year of Chemical Engineering with orientation in biotechnology.   
+- 🌱 I am in my fourth year of Chemical Engineering with orientation in biotechnology.   
   
 
 - 💻 I develop projects that combine biology and chemistry with software. I am learning more about bioinformatics and Python.  
