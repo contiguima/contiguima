@@ -15,7 +15,7 @@
 
 - .❓ Do not hesitate to contact me for questions about science or development.  
 
-- 👩‍💻 I'm working on a new version of my Portfolio!
+- 👩‍💻 I'm working on a new version of my Portfolio! You can see the process [here](https://constanzaguimaraez.vercel.app/)
   
 
 <br/>  
