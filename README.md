@@ -7,7 +7,7 @@
 - 🌱 I am in my fourth year of Chemical Engineering with orientation in biotechnology.   
   
 
-- 💻 I develop projects that combine biology and chemistry with software. I am learning more about bioinformatics and Python.  
+- 💻 I develop projects that combine biology and chemistry with software. 
   
 
 - 🇦🇷 Most of my repositories are in Spanish because I am from Argentina, but I have a good level of English.  
@@ -15,7 +15,7 @@
 
 - .❓ Do not hesitate to contact me for questions about science or development.  
 
-- 👩‍💻 Take a look to my  [Portfolio](https://constanzaguimaraez.netlify.app/)
+- 👩‍💻 I'm working on a new version of my Portfolio!
   
 
 <br/>  
@@ -28,6 +28,7 @@
 
 ### Frontend  
 <div align="center">  
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ next-original-wordmark.svg" alt="Next" height="50" /></a>
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
