@@ -1,10 +1,10 @@
 ### <div align="center">I'm Constanza, a chemical engineering student and a software developer oriented to science and biotechnology.</div>  
   
 
--  ⚗️ I am currently an ad honorem intern at the biomaterials laboratory of the Universidad Nacional de Misiones and a freelance frontend developer.  
+-  ⚗️ I am currently working as a Product Manager in Volsmart and making my grad thesis.  
   
 
-- 🌱 I am in my fourth year of Chemical Engineering with orientation in biotechnology.   
+- 🌱 I am in my final year of Chemical Engineering with orientation in biotechnology.   
   
 
 - 💻 I develop projects that combine biology and chemistry with software. 
